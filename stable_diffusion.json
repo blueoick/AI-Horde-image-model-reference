@@ -8362,12 +8362,12 @@
             ]
         }
     },
-    "sd_xl": {
-        "name": "sd_xl",
+    "SDXL_beta::stability.ai#6901": {
+        "name": "SDXL_beta::stability.ai#6901",
         "baseline": "stable diffusion 1",
         "type": "ckpt",
         "inpainting": false,
-        "description": "sd_xl",
+        "description": "SDXL_beta::stability.ai#6901",
         "showcases": [
             "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06efa61a-2cab-48ba-980a-12246bbd6518/width=1024/00316-2242061562.jpeg"
         ],
