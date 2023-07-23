@@ -8313,7 +8313,7 @@
             "files": [
                 {
                     "path": "westernAnimationDiffusion.safetensors",
-                    "sha256sum": "d20bc9d543b7d7d46a3ed7d91edc1880d8423f1a8a77dcf378801b5dbe211c3b"
+                    "sha256sum": "13406f993ca1f118e1fabf14f7e189b5271a4383512cb046887a5de27375d227"
                 },
                 {
                     "path": "v1-inference.yaml"
