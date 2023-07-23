@@ -52,7 +52,7 @@
         "config": {
             "files": [
                 {
-                    "path": "sd_xl_refiner_0.9.safetensors",
+                    "path": "model_1_5.safetensors",
                     "sha256sum": "13406f993ca1f118e1fabf14f7e189b5271a4383512cb046887a5de27375d227"
                 },
                 {
@@ -61,7 +61,7 @@
             ],
             "download": [
                 {
-                    "file_name": "sd_xl_refiner_0.9.safetensors",
+                    "file_name": "model_1_5.safetensors",
                     "file_path": "",
                     "file_url": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9/blob/main/sd_xl_refiner_0.9.safetensors"
                 }
